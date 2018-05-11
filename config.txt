@@ -1,0 +1,5 @@
+os:
+- sysctl -w vm.max_map_count=262144
+
+vscode:
+- https://marketplace.visualstudio.com/items?itemName=ria.elastic
